@@ -72,7 +72,4 @@ Copy code
 
 ---
 
-<p align="center">
-  <img src="assets/preview.png" alt="Pomodoro Preview" width="400">
-</p>
 
