@@ -16,8 +16,9 @@ Pomodoro-Timer/
 ├── script.js           # منطق برنامه
 ├── Font/
 │   └── Shabnam.ttf     # فونت فارسی
+|── Photo
+    └── Logo.jpg
 
-file:///E:/JS%20Project/Pomodoro%20Timer/Photo/Logo.jpg
 
 🚀 نحوه‌ی اجرا
 
@@ -53,3 +54,4 @@ AliCoder ❤️
 
 
 پروژه تمرینی برای یادگیری کار با DOM و Event Handling در JavaScript
+
