@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Photo/Logo.jpg" alt="Pomodoro Logo" width="180" style="border-radius:15px; box-shadow:0 0 10px #aaa;">
+  <img src="Logo.jpg" alt="Pomodoro Logo" width="180" style="border-radius:15px; box-shadow:0 0 10px #aaa;">
 </p>
 
 <h1 align="center">🕒 Pomodoro Timer | AliCoder</h1>
@@ -75,3 +75,4 @@ Copy code
 <p align="center">
   <img src="assets/preview.png" alt="Pomodoro Preview" width="400">
 </p>
+
